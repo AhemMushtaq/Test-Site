@@ -153,3 +153,9 @@ a:hover {
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+@media (min-width:450px) and (max-width:900px) {
+      .land-image {
+          width: 100%;
+      }
+  } 
