@@ -155,7 +155,7 @@ a:hover {
   }
 
 @media (min-width:450px) and (max-width:900px) {
-      .top-container {
+      .land-image {
           width: 100%;
       }
   } 
